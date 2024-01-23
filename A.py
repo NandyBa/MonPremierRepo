@@ -1,0 +1,2 @@
+def fA():
+    print("fA()")
